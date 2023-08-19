@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 ## Hi there🎀
-[![Github Badge](https://img.shields.io/badge/-hyemch-pink?style=flat&logo=github&logoColor=grey&link=https://github.com/hyemch/)](https://www.github.com/hyemch/) [![Gmail Badge](https://img.shields.io/badge/-hyecheon@student.42seoul.kr-FFC3E0?style=flat&logo=Gmail&logoColor=white&link=mailto:hyecheon@student.42seoul.kr)](mailto:hyecheon@student.42seoul.kr) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-pink?style=flat&link=[hyemch@github.io/](https://github.com/hyemch))]() <p align='left'> - I’m currently learning...student🌱  </p> 
+[![Github Badge](https://img.shields.io/badge/-hyemch-pink?style=flat&logo=github&logoColor=grey&link=https://github.com/hyemch/)](https://www.github.com/hyemch/) [![Gmail Badge](https://img.shields.io/badge/-hyecheon@student.42seoul.kr-FFC3D0?style=flat&logo=Gmail&logoColor=white&link=mailto:hyecheon@student.42seoul.kr)](mailto:hyecheon@student.42seoul.kr) <a href="https://www.instagram.com/blossomin_g_" target="_blank"><img src="https://img.shields.io/badge/instagram-FFC3D0?style=flat&logo=Instagram&logoColor=white"/></a> [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-pink?style=flat&link=[hyemch@github.io/](https://github.com/hyemch))]() <p align='left'> - I’m currently learning...student🌱  </p> 
 
 ## Some of my Github Stats 💫
 
