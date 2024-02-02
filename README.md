@@ -37,7 +37,9 @@ Here are some ideas to get you started:
 
 ## Some of my Github Stats 💫
 
-[![hyecheon's 42 stats](https://badge42.vercel.app/api/v2/cllhmplvy016108memyu5duj0/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
+[![hyemch's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyemch)](https://github.com/anuraghazra/github-readme-stats)
+
+[![hyemch's 42 stats](https://badge42.vercel.app/api/v2/cllhmplvy016108memyu5duj0/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyemch&count_bg=%23FFC3E0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
