@@ -1,6 +1,6 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC9D0&height=150&section=header&text=Hi%20there%20🎀&fontSize=30&animation=twinkling&fontAlign=80" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC2D0,100:86a8e7&height=150&section=header&text=Hi%20there%20🎀&fontSize=30&animation=twinkling&fontAlign=80" />
+  <!--&color=0:ffe0e7,100:cceae0 -->
 <!--
 ### Hi there 👋
 
@@ -37,15 +37,16 @@ Here are some ideas to get you started:
 
 ## Some of my Github Stats 💫
 
-[![hyemch's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyemch)](https://github.com/anuraghazra/github-readme-stats)
+[![hyemch's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyemch&bg_color=caeddd,d1edff,f7dced&title_color=777&text_color=777)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyemch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyemch&bg_color=caeddd,d1edff,f7dced&title_color=777&text_color=777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--&bg_color=FFC2D0,91eac9,86a8e7 -->
 
 [![hyemch's 42 stats](https://badge42.vercel.app/api/v2/cllhmplvy016108memyu5duj0/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyemch&count_bg=%23FFC3E0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC9D0&height=100&section=footer&text=Bye!%20👋&fontSize=30&animation=twinkling&fontAlign=80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC2D0,100:86a8e7&height=100&section=footer&text=Bye!%20👋&fontSize=30&animation=twinkling&fontAlign=80" />
 </div>
 
