@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 
 ## 📚 Stacks
 
+<!--
 #### Backend
 <img src="https://img.shields.io/badge/c-FF4F8B?style=for-the-badge&logo=c&logoColor=white"><img src="https://img.shields.io/badge/c++-3776AB?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
@@ -69,8 +70,9 @@ Here are some ideas to get you started:
 
 #### Tools
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><img src="https://img.shields.io/badge/Github-FF4785?style=for-the-badge&logo=github&logoColor=white">
-<br/>
 
+-->
+<br/>
 
 <!--[![hyemch's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyemch&bg_color=caeddd,d1edff,f7dced&title_color=777&text_color=777)](https://github.com/anuraghazra/github-readme-stats)
 
